@@ -1,0 +1,6 @@
+module validationMuonRPCRecHits = RPCRecHitValid {
+        
+        # Label to retrieve Digis from the event 
+        untracked string rootFileName = "/tmp/trentad/rpcRecHitQualityPlots.root"
+
+}
